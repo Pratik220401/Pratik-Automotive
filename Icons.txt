@@ -1,0 +1,13 @@
+<i class="fa-brands fa-twitter-square"></i>
+        <i class="fa-regular fa-calendar-days"></i>
+        <i class="fa-brands fa-facebook"></i>   
+        <i class="fa-brands fa-linkedin"></i>
+        <i class="fa-solid fa-chart-column"></i>
+        <i class="fa-solid fa-chart-pie"></i>
+        <i class="fa-solid fa-building"></i>
+
+
+
+<i class="fa-solid fa-calculator"></i>
+<i class="fa-regular fa-envelope"></i>
+<i class="fa-regular fa-circle-check"></i>
